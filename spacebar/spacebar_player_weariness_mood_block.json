@@ -44,7 +44,7 @@
     "label": "Mood/Focus/activity",
     "arrange": "rows",
     "width": 28,
-    "widgets": [ "mood_desc_label", "focus_num", "activity_desc" ]
+    "widgets": [ "mood_desc_label", "spacebar_focus_graph", "activity_desc" ]
   },
   {
     "id": "spacebar_focus_graph",
