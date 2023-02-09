@@ -3,10 +3,10 @@
     "id": "enviroment_conditions_block",
     "type": "widget",
     "style": "layout",
-    "label": "5_enviroment block",
+    "label": "1_enviroment block",
     "arrange": "minimum_columns",
     "width": 58,
-    "widgets": [ "spacebar_separator_2", "enviroment_conditions_block_2", "structured_overmap_7x7_layout" ]
+    "widgets": [ "spacebar_separator_2", "enviroment_conditions_block_2", "spacebar_overmap_14x6_layout" ]
   },
   {
     "id": "enviroment_conditions_block_2",

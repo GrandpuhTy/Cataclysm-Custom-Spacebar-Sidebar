@@ -46,8 +46,8 @@
     "id": "structured_overmap_7x7",
     "type": "widget",
     "copy-from": "structured_overmap_9x9",
-    "width": 14,
-    "height": 6
+    "width": 7,
+    "height": 7
   },
   {
     "id": "structured_overmap_9x7",
